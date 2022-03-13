@@ -22,7 +22,7 @@ Compiling Your Contract
 
 Deploying Your Contract
 
-![.](demo/Saving Remix screenshot.png)
+![.](/demo/Saving Remix screenshot.png)
 
 That's it. You have set up a local development environment, implemented your first smart contract, tested it, and then deployed it locally.
 
