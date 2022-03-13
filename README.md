@@ -1,6 +1,7 @@
 # SavingFundBlockChain
 
 Great, you copied some code and now probably do not have too much clue of what this actually is, so let's take some time and go over this code step by step.
+
 // SPDX-License-Identifier: MIT
 This is a license header. Solidity encourages you to license and even make your code open source, as this builds trust with the community.
 
