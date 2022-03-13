@@ -22,7 +22,7 @@ Compiling Your Contract
 
 Deploying Your Contract
 
-<img src="https://github.com/selenalee123/SavingFundBlockChain/blob/main/demo/Saving%20Remix%20screenshot.png" width="300" height="600"/>
+<img src="https://github.com/selenalee123/SavingFundBlockChain/blob/main/demo/Saving%20Remix%20screenshot.png" />
 
 That's it. You have set up a local development environment, implemented your first smart contract, tested it, and then deployed it locally.
 
